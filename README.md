@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lockedNLevered
-- 👀 I’m interested in typescript, react, nextjs, python and graphql
+- 👀 I’m interested in typescript, react, rust and graphql
 - https://www.codewars.com/users/lockedNLevered
 - https://stackoverflow.com/users/12244448/lockednlevered
 <!---
