@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lockedNLevered
-- 👀 TypeScript and React enthusiast
+- 👀 TypeScript and React enthusiast. Dabbling in vue
 - https://www.codewars.com/users/lockedNLevered
 - https://stackoverflow.com/users/12244448/lockednlevered
 <!---
