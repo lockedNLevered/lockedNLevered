@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lockedNLevered
-- 👀 TypeScript and React enthusiast. Dabbling in Vue
+- 👀 TypeScript and React enthusiast.
 - https://www.shaynelarochelle.com
 - https://stackoverflow.com/users/12244448/lockednlevered
 <!---
